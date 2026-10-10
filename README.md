@@ -1,5 +1,5 @@
 # Q-Learning on Taxi-v3  
-**Assignment 2 — Reinforcement Learning (CSCN 8020)**  
+**Reinforcement Learning (CSCN 8020)**  
 
 This project implements a Q-Learning agent for the Taxi-v3 environment from Gymnasium.  
 The goal is to train the agent to pick up passengers, drop them off at their destinations, and maximize cumulative rewards through experience.
